@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Chocolate" size="1733.000000 3549.000000" />
+    <ImageTarget name="maria" size="2025.000000 3849.000000" />
+    <ImageTarget name="Royal" size="1921.000000 2689.000000" />
+    <ImageTarget name="pizza_barbacoa_tarradellas" size="1024.000000 853.000000" />
+    <ImageTarget name="mayonesa_hellmans" size="1024.000000 853.000000" />
+    <ImageTarget name="maria_fontaneda" size="1024.000000 853.000000" />
+    <ImageTarget name="cheetos_gusanitos" size="1024.000000 853.000000" />
+    <ImageTarget name="pizza4Quesos_tarradellas" size="1024.000000 853.000000" />
+    <ImageTarget name="ruffles_jamon" size="1024.000000 853.000000" />
+    <ImageTarget name="cheetos_pelotazos" size="1024.000000 853.000000" />
+    <ImageTarget name="cheetos_pandilla" size="1024.000000 853.000000" />
+    <ImageTarget name="lays_gourmet" size="1024.000000 853.000000" />
+    <ImageTarget name="fideo_0_gallo" size="1024.000000 938.443848" />
+    <ImageTarget name="doritos" size="1024.000000 853.000000" />
+    <ImageTarget name="digestive" size="439.000000 336.000000" />
+    <ImageTarget name="salchichas_OscarMayer" size="1024.000000 853.000000" />
+    <ImageTarget name="pringles_originales" size="427.000000 1352.000000" />
+    <ImageTarget name="Ketchup_prima" size="176.000000 346.000000" />
+    <ImageTarget name="ketchup_heinz" size="189.000000 260.000000" />
+  </Tracking>
+</QCARConfig>
